@@ -31,4 +31,4 @@ $ python WishlistApp.py
 
 ## Acknowledgments
 
-* The idea comes mostly thanks to my girlfriend (she herself made Christmas wishlist) and the number of people in my family.
+* The idea comes mostly thanks to my girlfriend (she herself made Christmas wishlist 2 years ago) and the number of people in my family.
