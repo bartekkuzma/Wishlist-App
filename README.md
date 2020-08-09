@@ -2,7 +2,7 @@
 
 Project created for <i>Python & SQL: intro</i> classes at WNE UW.
 
-## About App
+## About app
 
 The WISHLIST APP is an application (now available only in terminal), developed for solving one of the biggest problem during ocassions like Christmas, when you, your family and friends are going to buy some gifts for each other.  
 The main problem is: „Who wants what?” – For a buyer, and „Ehh I don’t know how to say him/her what is my dream, what a shame, I’ll get socks, like one year ago…” – for a beneficiary. The WISHLIST APP is also ideal choice when you have got many groups in your society, and you want to target specific wishlist to specific group of potential buyers.   
