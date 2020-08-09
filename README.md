@@ -24,6 +24,11 @@ To run the app you have to type the following simple command in the terminal:
 $ python WishlistApp.py
 ```
 
+## Tech stack
+
+* Python
+* SQL
+
 ## Authors
 
 * **Bartek Kuźma** 
