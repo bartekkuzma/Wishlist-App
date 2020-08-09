@@ -1,87 +1,20 @@
 # WishlistApp
 
-One Paragraph of project description goes here
+Project created for <i>Python & SQL: intro</i> classes at WNE UW.
 
-## Getting Started
+## About App
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The WISHLIST APP is an application (now available only in terminal), developed for solving one of the biggest problem during ocassions like Christmas, when you, your family and friends are going to buy some gifts for each other. The main problem is: „Who wants what?” – For a buyer, and „Ehh I don’t know how to say him/her what is my dream, what a shame, I’ll get socks, like one year ago…” – for a beneficiary. The WISHLIST APP is also ideal choice when you have got many groups in your society, and you want to target specific wishlist to specific group of potential buyers. In WISHLIST APP, it is forbidden to choose one wish from wishlist several times, so the situation, where one person get the same wish two times is impossible! The WISHLIST APP is also very discreet, you can still make a surprise for your beneficiary, but only a good surprise with a gift that he/she really want! In WISHLIST APP, other users, belonging to the same group, could see only what wishes are choosen, and the beneficiary could not even see which wishes form his/her wishlist is already choosen, so he/she know what could expect (because of he/she wrote a wishlist), but doesn’t know what he/she will get (of course if more than one wish is included in wishlist).
 
-### Prerequisites
+## About repository
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Bartek Kuźma** 
+* **Maciek Odziemczyk** 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* The idea comes mostly thanks to my girlfriend (she herself made Christmas wishlist) and the number of people in my family.
