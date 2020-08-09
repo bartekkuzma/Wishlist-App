@@ -12,9 +12,17 @@ In WISHLIST APP, it is forbidden to choose one wish from wishlist several times,
 
 Guide, how to use the app, is available in <b>readme.pdf</b>.  
 If you want to create new database for the app you have to run <b>wish_database.py</b> first. Then you can run the app through <b>WishlistApp.py</b>.  
-Although, if you want to use existing database you simply run the <b>WishlistApp.py</b>.  
+Although, if you want to use existing database you have to simply run the <b>WishlistApp.py</b>.  
 Data from the app are stored in <b>wishlist.db</b> file, however due to project requirements we must use both pandas and SQL and that's why it is also a CSV file.  
 Schema of the database is available through <b>database schema.png</b>, obviously.
+
+## Running the app
+
+To run the app you have to type the following simple command in the terminal:
+
+```
+$ python WishlistApp.py
+```
 
 ## Authors
 
